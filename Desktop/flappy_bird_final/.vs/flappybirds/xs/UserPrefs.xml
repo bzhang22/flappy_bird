@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{DF951779-CDDD-5331-2FBD-3AC6793B39C4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Flappy Bird Style/Scripts/GameControl.cs">
+    <Files>
+      <File FileName="Assets/Flappy Bird Style/Scripts/Bird.cs" Line="34" Column="41" />
+      <File FileName="Assets/Flappy Bird Style/Scripts/GameControl.cs" Line="15" Column="2" />
+      <File FileName="Assets/Flappy Bird Style/Scripts/ColumnPool.cs" />
+      <File FileName="Assets/Flappy Bird Style/Scripts/Column.cs" />
+      <File FileName="Assets/Flappy Bird Style/Scripts/Mainmenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Flappy Bird Style/Scripts/ScrollingObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Flappy Bird Style/Scripts/RepeatingBackground.cs" Line="1" Column="1" />
+      <File FileName="Assets/Flappy Bird Style/Scripts/option.cs" Line="39" Column="6" />
+      <File FileName="Assets/Flappy Bird Style/Scripts/soundfx.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="flappybirds" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Flappy Bird Style" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="GameControl.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="acc40e40-59ac-49a2-be27-727ff443f2a4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
